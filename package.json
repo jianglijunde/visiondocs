@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "deploypages": "USE_SSH=true yarn deploy"
+    "dp": "USE_SSH=true yarn deploy"
   },
   "dependencies": {
     "@docusaurus/core": "2.4.3",
