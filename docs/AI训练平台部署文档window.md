@@ -4,6 +4,7 @@
 
 检查操作系统版本
 **window 版本需要大于 1903 ， 否则 wsl gpu docker 启动不起来**
+
 ![image.png](./img/1.png)
 
 #### 检查命令
