@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[420],{4834:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/visiondocs.github.io/blog/tags/facebook","allTagsPath":"/visiondocs.github.io/blog/tags","count":1}')}}]);
